@@ -6,4 +6,6 @@ this is example of how language provider can be used for an app
 -create messages at the very root of the project for both tr and en, just copy the directiory
 -create middleware.ts
 -add the utils folder
+-change the layout file
+-change the nextjs config file
 -thats it i guess see t3-example-2 for real life example, or in other words vizilio project.# NextJS-Multi-Lang-Template
